@@ -1,0 +1,37 @@
+/* COLOR PALLETE REFERENCES
+black: #252525
+yellow: #EAFF3A
+light blue: #44D4F0
+dark blue: #435AFF
+purple: #A54FE0
+*/
+
+html, body {
+  height: 100%;
+  width: 100%;
+  /* color: blue; */
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  background-color:#A54FE0 ;
+  color: white;
+  padding:10px; 
+  font-size: 36px;
+  
+}
+
+button{
+  text-align:center;
+}
+
+img{
+/*   border-radius: 50%;
+  max-width: 20%;
+  height: auto; */
+}
+
+#card{
+  display: inline-block;
+}
